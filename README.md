@@ -48,4 +48,4 @@ Implement error handling to validate user inputs when selecting genres.
 Feel free to fork this project and submit pull requests with enhancements or fixes.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and unlicensed.
